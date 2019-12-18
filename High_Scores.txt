@@ -1,0 +1,13 @@
+Peter : 19
+Stella : 18
+example : 0
+test : 0
+snakegod : 8
+test8 : 10
+test7 : 7
+test1 : 10
+test10 : 1
+test2 : 5
+test4 : 16
+test3 : 2
+testing : 0
