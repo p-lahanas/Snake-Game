@@ -4,8 +4,7 @@ class Fruit:
 
     def __init__(self, num_grid):
         self.num_grid = num_grid
-        self.x = random.randint(0, self.num_grid-1)
-        self.y = random.randint(0, self.num_grid-1)
+        self.move()
     
     def move(self):
         self.x = random.randint(0, self.num_grid-1)
